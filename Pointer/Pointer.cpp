@@ -22,5 +22,5 @@ int main()
     pMhs->nim = 3;
     pMhs->showNim();
     system("pause");
-    return;
+    return 0;
 }
