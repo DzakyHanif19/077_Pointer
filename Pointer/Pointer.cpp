@@ -6,3 +6,6 @@ public:
     void showNim();
 };
 
+void mahasiswa::showNim() {
+    cout << "No Induk = " << nim << endl;
+}
